@@ -33,3 +33,9 @@ Once your submission is reviewed and approved, it will be added to [goodfirstiss
 ## Contributing
 
 Want to contribute? See [CONTRIBUTING.md](CONTRIBUTING.md) for setup instructions and guidelines.
+
+<!-- fork-notice: start -->
+### Notice concerning this fork
+
+This repository is a fork of an upstream project. The original copyright, licenses and upstream maintainers' legal terms remain unchanged. See this fork's [Supplemental Disclaimer and Risk Notice](DISCLAIMER.md) concerning the fork maintainer's own contributions; it does not claim to bind upstream authors or override mandatory legal rights.
+<!-- fork-notice: end -->
